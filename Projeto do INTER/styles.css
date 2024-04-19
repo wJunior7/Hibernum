@@ -59,10 +59,21 @@ body, header, .carrossel, .carrossel-inner {
     position: relative;
 }
 
+
 .logo {
     color: #00263a;
     text-decoration: none;
 }
+.logoHibernum img{
+    position:relative;
+    height: auto;
+    left: -2px;
+    width: 135px;
+
+
+
+}
+
  nav ul{
     display: flex;
     list-style: none;
